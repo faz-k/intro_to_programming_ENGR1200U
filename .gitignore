@@ -1,6 +1,7 @@
 #custom defined
 *.docx
 *.pdf
+*.png
 
 # Prerequisites
 *.d
