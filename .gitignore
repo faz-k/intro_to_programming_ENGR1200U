@@ -1,3 +1,7 @@
+#custom defined
+*.docx
+*.pdf
+
 # Prerequisites
 *.d
 
